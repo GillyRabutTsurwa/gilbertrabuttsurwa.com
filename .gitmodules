@@ -1,3 +1,6 @@
 [submodule "site"]
 	path = site
 	url = git@github.com:GillyRabutTsurwa/gilbertrabuttsurwa_production.git
+[submodule "github"]
+	path = github
+	url = git@github.com:GillyRabutTsurwa/gilbertrabuttsurwa_production.git
