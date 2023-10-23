@@ -1,9 +1,3 @@
 [submodule "site"]
 	path = site
-	url = git@github.com:GillyRabutTsurwa/gilbertrabuttsurwa_production.git
-[submodule "frontend"]
-	path = frontend
-	url = git@github.com:GillyRabutTsurwa/gilbertrabuttsurwa__frontend.git
-[submodule "content"]
-	path = content
-	url = git@github.com:GillyRabutTsurwa/gilbertrabuttsurwa__content.git
+	url = git@github.com:GillyRabutTsurwa/gilbertrabuttsurwa_site.git
