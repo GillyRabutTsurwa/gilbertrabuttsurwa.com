@@ -3,4 +3,4 @@
 	url = git@github.com:GillyRabutTsurwa/gilbertrabuttsurwa__site.git
 [submodule "content"]
 	path = content
-	url = git@github.com:GillyRabutTsurwa/gilbertrabuttsurwa_content.git
+	url = git@github.com:GillyRabutTsurwa/gilbertrabuttsurwa__content.git
